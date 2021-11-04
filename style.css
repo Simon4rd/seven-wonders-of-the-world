@@ -1,0 +1,38 @@
+main {
+    position: relative;
+    /* top: 0;
+  left: 200px; */
+    margin-left: 200px;
+  }
+  
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+  /* Image */
+  img {
+    width: 100%;
+  }
+  .label {
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+  }
+  .caption {
+    color: #777;
+  }
+  .copyright {
+    font-style: italic;
+    color: #777;
+  }
+
+  /* h1 {
+    color: red;
+  } */
+
+  .yellow:hover {
+    color: yellow;
+  }
+  
